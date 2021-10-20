@@ -25,13 +25,65 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Main" />
+  <component name="RunManager" selected="Application.Input_data_scanner">
+    <configuration name="Aritmetika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Percobaan.Aritmetika" />
       <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul2.Praktikum.*" />
+          <option name="PATTERN" value="Modul2.Praktikum.Percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input_data_scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Percobaan.Input_data_scanner" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul2.Praktikum.Percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nilai_ke_tipe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Percobaan.Nilai_ke_tipe" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul2.Praktikum.Percobaan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nilai_ke_tipe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Tugas.Nilai_ke_tipe" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul2.Tugas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Percobaan.Unicode" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul2.Praktikum.Percobaan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,7 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Input_data_scanner" />
+        <item itemvalue="Application.Aritmetika" />
+        <item itemvalue="Application.Unicode" />
+        <item itemvalue="Application.Nilai_ke_tipe (1)" />
+        <item itemvalue="Application.Nilai_ke_tipe" />
       </list>
     </recent_temporary>
   </component>
@@ -61,5 +117,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="400" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1634032249339" />
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom" timestamp="1634704905906">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634704905906" />
+    <state width="1237" height="165" key="GridCell.Tab.0.center" timestamp="1634704905905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1634704905905" />
+    <state width="1237" height="165" key="GridCell.Tab.0.left" timestamp="1634704905905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1634704905905" />
+    <state width="1237" height="165" key="GridCell.Tab.0.right" timestamp="1634704905906">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1634704905905" />
   </component>
 </project>

@@ -6,6 +6,10 @@ public class Modifier {
     protected int angkaProtected =1000;
     private int angkaPrivate =100;
 
+    public void printAngkaPrivate(){
+        System.out.println(angkaPrivate);
+    }
+
 
 }
 
