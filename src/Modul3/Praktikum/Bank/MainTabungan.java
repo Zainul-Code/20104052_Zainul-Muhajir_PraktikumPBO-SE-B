@@ -17,6 +17,11 @@ public class MainTabungan {
         System.out.print("Saldo tabungan sekarang\t: ");
         System.out.println(tabungan.getSaldo());
 
+        System.out.println(" Saldo tabungan sekarang ");
+        System.out.println(tabungan.getSaldo());
+
+
+
 
     }
 }
