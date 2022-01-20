@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5064a714-ca5f-4d8e-9623-cc8ae690ef9d" name="Default Changelist" comment="" />
+    <list default="true" id="5064a714-ca5f-4d8e-9623-cc8ae690ef9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/BangunDatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/MainBangun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/Persegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/PersegiPanjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul6/Praktikum/Percobaan1/Subbangun/Segitiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +51,45 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Modul6.Praktikum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Mainbangun">
+    <configuration name="Mainbangun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.Praktikum.Percobaan2.Mainbangun" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul6.Praktikum.Percobaan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Persegitest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.Praktikum.Persegitest" />
+      <module name="20104052_Zainul-Muhajir_PraktikumPBO-SE-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul6.Praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mainbangun" />
+        <item itemvalue="Application.Persegitest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,10 +101,45 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="400" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634032249339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="400" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1634032249339" />
+    <state x="731" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1637036096550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="731" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1637036096550" />
+    <state width="663" height="145" key="GridCell.Tab.0.bottom" timestamp="1637036949105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="145" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1637036949105" />
+    <state width="663" height="145" key="GridCell.Tab.0.center" timestamp="1637036949105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="145" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1637036949105" />
+    <state width="663" height="145" key="GridCell.Tab.0.left" timestamp="1637036949104">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="145" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1637036949104" />
+    <state width="663" height="145" key="GridCell.Tab.0.right" timestamp="1637036949105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="663" height="145" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1637036949105" />
+    <state x="656" y="101" key="extract.method.dialog" timestamp="1637037499569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="656" y="101" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1637037499569" />
   </component>
 </project>
